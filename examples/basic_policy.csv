@@ -1,0 +1,2 @@
+p, /_ping, GET
+p, /v1.27/images/json, GET
